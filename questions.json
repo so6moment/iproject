@@ -1,0 +1,2228 @@
+{
+    "first": [
+        {
+            "id": 1,
+            "text": "Be was/were been",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Рождать", "isCorrect": false},
+                {"id": 2, "text": "Быть", "isCorrect": true},
+                {"id": 3, "text": "Носить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Bear bore born",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Рождать", "isCorrect": true},
+                {"id": 2, "text": "Бить", "isCorrect": false},
+                {"id": 3, "text": "Становиться", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 3,
+            "text": "Beat beat beaten",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Копать", "isCorrect": false},
+                {"id": 2, "text": "Стоить", "isCorrect": false},
+                {"id": 3, "text": "Бить", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 4,
+            "text": "Become became become",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Становиться", "isCorrect": true},
+                {"id": 2, "text": "Вставать", "isCorrect": false},
+                {"id": 3, "text": "Резать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 5,
+            "text": "Begin began begun",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Делать", "isCorrect": false},
+                {"id": 2, "text": "Начинать", "isCorrect": true},
+                {"id": 3, "text": "Кушать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 6,
+            "text": "Bite bit bitten",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Сражаться", "isCorrect": false},
+                {"id": 2, "text": "Мечтать", "isCorrect": false},
+                {"id": 3, "text": "Кусать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 7,
+            "text": "Blow blew blown",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Дуть", "isCorrect": true},
+                {"id": 2, "text": "Взрываться", "isCorrect": false},
+                {"id": 3, "text": "Кормить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 8,
+            "text": "Break broke broken",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Находить", "isCorrect": false},
+                {"id": 2, "text": "Ломать", "isCorrect": true},
+                {"id": 3, "text": "Чувствовать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 9,
+            "text": "Build built built",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Забывать", "isCorrect": false},
+                {"id": 2, "text": "Летать", "isCorrect": false},
+                {"id": 3, "text": "Строить", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 10,
+            "text": "Bring brought brought",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Приносить", "isCorrect": true},
+                {"id": 2, "text": "Идти", "isCorrect": false},
+                {"id": 3, "text": "Расти", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 11,
+            "text": "Burn burnt burnt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Ударить", "isCorrect": false},
+                {"id": 2, "text": "Гореть", "isCorrect": true},
+                {"id": 3, "text": "Слышать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 12,
+            "text": "Burst burst burst",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Держать", "isCorrect": false},
+                {"id": 2, "text": "Прятать", "isCorrect": false},
+                {"id": 3, "text": "Взрываться", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 13,
+            "text": "Buy bought bought",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Покупать", "isCorrect": true},
+                {"id": 2, "text": "Хранить", "isCorrect": false},
+                {"id": 3, "text": "Причинять боль", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 14,
+            "text": "Catch caught caught",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Одалживать", "isCorrect": false},
+                {"id": 2, "text": "Ловить", "isCorrect": true},
+                {"id": 3, "text": "Уезжать/покидать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 15,
+            "text": "Choose chose chosen",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Позволять", "isCorrect": false},
+                {"id": 2, "text": "Вести", "isCorrect": false},
+                {"id": 3, "text": "Выбирать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 16,
+            "text": "Come came come",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Приходить", "isCorrect": true},
+                {"id": 2, "text": "Освещать/зажигать", "isCorrect": false},
+                {"id": 3, "text": "Терять", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 17,
+            "text": "Cost cost cost",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Класть", "isCorrect": false},
+                {"id": 2, "text": "Стоить", "isCorrect": true},
+                {"id": 3, "text": "Платить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 18,
+            "text": "Cut cut cut",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Встречать", "isCorrect": false},
+                {"id": 2, "text": "Читать", "isCorrect": false},
+                {"id": 3, "text": "Резать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 19,
+            "text": "Deal dealt dealt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Иметь дело с", "isCorrect": true},
+                {"id": 2, "text": "Делать/мастерить", "isCorrect": false},
+                {"id": 3, "text": "Класть", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 20,
+            "text": "Dig dug dug",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Читать", "isCorrect": false},
+                {"id": 2, "text": "Копать", "isCorrect": true},
+                {"id": 3, "text": "Ездить верхом", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 21,
+            "text": "Do did done",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Продавать", "isCorrect": false},
+                {"id": 2, "text": "Бегать", "isCorrect": false},
+                {"id": 3, "text": "Делать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 22,
+            "text": "Draw drew drawn",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Рисовать", "isCorrect": true},
+                {"id": 2, "text": "Видеть", "isCorrect": false},
+                {"id": 3, "text": "Подниматься", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 23,
+            "text": "Dream dreamt dreamt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Звонить", "isCorrect": false},
+                {"id": 2, "text": "Мечтать", "isCorrect": true},
+                {"id": 3, "text": "Сказать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 24,
+            "text": "Drink drank drunk",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Устанавливать/ставить", "isCorrect": false},
+                {"id": 2, "text": "Отправлять", "isCorrect": false},
+                {"id": 3, "text": "Пить", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 25,
+            "text": "Drive drove driven",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Водить машину", "isCorrect": true},
+                {"id": 2, "text": "Шить", "isCorrect": false},
+                {"id": 3, "text": "Трясти", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 26,
+            "text": "Eat ate eaten",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Светить/сиять", "isCorrect": false},
+                {"id": 2, "text": "Кушать", "isCorrect": true},
+                {"id": 3, "text": "Стрелять", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 27,
+            "text": "Fall fell fallen",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Показывать", "isCorrect": false},
+                {"id": 2, "text": "Петь", "isCorrect": false},
+                {"id": 3, "text": "Падать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 28,
+            "text": "Feed fed fed",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Кормить", "isCorrect": true},
+                {"id": 2, "text": "Пахнуть", "isCorrect": false},
+                {"id": 3, "text": "Закрывать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 29,
+            "text": "Feel felt felt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Сидеть", "isCorrect": false},
+                {"id": 2, "text": "Чувствовать", "isCorrect": true},
+                {"id": 3, "text": "Писать по буквам", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 30,
+            "text": "Fight fought fought",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Одалживать", "isCorrect": false},
+                {"id": 2, "text": "Тратить", "isCorrect": false},
+                {"id": 3, "text": "Сражаться", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 31,
+            "text": "Find found found",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Находить", "isCorrect": true},
+                {"id": 2, "text": "Побеждать", "isCorrect": false},
+                {"id": 3, "text": "Писать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 32,
+            "text": "Fly flew flown",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Просыпаться", "isCorrect": false},
+                {"id": 2, "text": "Летать", "isCorrect": true},
+                {"id": 3, "text": "Понимать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 33,
+            "text": "Forget forgot forgotten",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Думать", "isCorrect": false},
+                {"id": 2, "text": "Бросать", "isCorrect": false},
+                {"id": 3, "text": "Забывать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 34,
+            "text": "Forgive forgave forgiven",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Прощать", "isCorrect": true},
+                {"id": 2, "text": "Рвать", "isCorrect": false},
+                {"id": 3, "text": "Учить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 35,
+            "text": "Freeze froze frozen",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Брать", "isCorrect": false},
+                {"id": 2, "text": "Замерзать", "isCorrect": true},
+                {"id": 3, "text": "Плавать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 36,
+            "text": "Get got got",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Делать", "isCorrect": false},
+                {"id": 2, "text": "Подметать", "isCorrect": false},
+                {"id": 3, "text": "Получать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 37,
+            "text": "Give gave given",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Давать", "isCorrect": true},
+                {"id": 2, "text": "Быть", "isCorrect": false},
+                {"id": 3, "text": "Получать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 38,
+            "text": "Go went gone",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Стоять", "isCorrect": false},
+                {"id": 2, "text": "Идти", "isCorrect": true},
+                {"id": 3, "text": "Красть", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 39,
+            "text": "Grow grew grown",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Спать", "isCorrect": false},
+                {"id": 2, "text": "Прилипать", "isCorrect": false},
+                {"id": 3, "text": "Расти", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 40,
+            "text": "Have had had",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Иметь", "isCorrect": true},
+                {"id": 2, "text": "Петь", "isCorrect": false},
+                {"id": 3, "text": "Сидеть", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 41,
+            "text": "Hear heard heard",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Бить", "isCorrect": false},
+                {"id": 2, "text": "Слышать", "isCorrect": true},
+                {"id": 3, "text": "Становиться", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 42,
+            "text": "Hide hid hidden",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Брать", "isCorrect": false},
+                {"id": 2, "text": "Учить", "isCorrect": false},
+                {"id": 3, "text": "Прятать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 43,
+            "text": "Hit hit hit",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Ударить", "isCorrect": true},
+                {"id": 2, "text": "Плавать", "isCorrect": false},
+                {"id": 3, "text": "Резать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 44,
+            "text": "Hold held held",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Стрелять", "isCorrect": false},
+                {"id": 2, "text": "Держать", "isCorrect": true},
+                {"id": 3, "text": "Светить/сиять", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 45,
+            "text": "Hurt hurt hurt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Устанавливать/ставить", "isCorrect": false},
+                {"id": 2, "text": "Держать", "isCorrect": false},
+                {"id": 3, "text": "Причинять боль", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 46,
+            "text": "Keep kept kept",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Хранить", "isCorrect": true},
+                {"id": 2, "text": "Шить", "isCorrect": false},
+                {"id": 3, "text": "Продолжать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 47,
+            "text": "Know knew known",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Ездить верхом", "isCorrect": false},
+                {"id": 2, "text": "Знать", "isCorrect": true},
+                {"id": 3, "text": "Звонить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 48,
+            "text": "Lead led led",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Одалживать", "isCorrect": false},
+                {"id": 2, "text": "Замерзать", "isCorrect": false},
+                {"id": 3, "text": "Вести", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 49,
+            "text": "Lend lent lent",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Одалживать", "isCorrect": true},
+                {"id": 2, "text": "Терять", "isCorrect": false},
+                {"id": 3, "text": "Класть", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 50,
+            "text": "Leave left left",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Позволять", "isCorrect": false},
+                {"id": 2, "text": "Уезжать/покидать", "isCorrect": true},
+                {"id": 3, "text": "Одалживать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 51,
+            "text": "Let let let",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Знать", "isCorrect": false},
+                {"id": 2, "text": "Хранить", "isCorrect": false},
+                {"id": 3, "text": "Позволять", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 52,
+            "text": "Light lit lit",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Освещать/зажигать", "isCorrect": true},
+                {"id": 2, "text": "Вести", "isCorrect": false},
+                {"id": 3, "text": "Ударить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 53,
+            "text": "Lose lost lost",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Держать", "isCorrect": false},
+                {"id": 2, "text": "Терять", "isCorrect": true},
+                {"id": 3, "text": "Слышать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 54,
+            "text": "Make made made",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Расти", "isCorrect": false},
+                {"id": 2, "text": "Иметь", "isCorrect": false},
+                {"id": 3, "text": "Делать/мастерить", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 55,
+            "text": "Meet met met",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Встречать", "isCorrect": true},
+                {"id": 2, "text": "Давать", "isCorrect": false},
+                {"id": 3, "text": "Замерзать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 56,
+            "text": "Pay paid paid",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Пить", "isCorrect": false},
+                {"id": 2, "text": "Платить", "isCorrect": true},
+                {"id": 3, "text": "Стоить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 57,
+            "text": "Put put put",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Кормить", "isCorrect": false},
+                {"id": 2, "text": "Падать", "isCorrect": false},
+                {"id": 3, "text": "Класть", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 58,
+            "text": "Read read read",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Читать", "isCorrect": true},
+                {"id": 2, "text": "Чувствовать", "isCorrect": false},
+                {"id": 3, "text": "Летать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 59,
+            "text": "Ride rode ridden",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Забывать", "isCorrect": false},
+                {"id": 2, "text": "Ездить верхом", "isCorrect": true},
+                {"id": 3, "text": "Падать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 60,
+            "text": "Ring rang rung",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Делать", "isCorrect": false},
+                {"id": 2, "text": "Рисовать", "isCorrect": false},
+                {"id": 3, "text": "Звонить", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 61,
+            "text": "Rise rose risen",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Подниматься", "isCorrect": true},
+                {"id": 2, "text": "Копать", "isCorrect": false},
+                {"id": 3, "text": "Иметь дело с", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 62,
+            "text": "Run ran run",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Резать", "isCorrect": false},
+                {"id": 2, "text": "Бежать", "isCorrect": true},
+                {"id": 3, "text": "Ловить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 63,
+            "text": "See saw seen",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Дуть", "isCorrect": false},
+                {"id": 2, "text": "Кусать", "isCorrect": false},
+                {"id": 3, "text": "Видеть", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 64,
+            "text": "Sell sold sold",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Продавать", "isCorrect": true},
+                {"id": 2, "text": "Начинать", "isCorrect": false},
+                {"id": 3, "text": "Покупать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 65,
+            "text": "Send sent sent",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Становиться", "isCorrect": false},
+                {"id": 2, "text": "Отправлять", "isCorrect": true},
+                {"id": 3, "text": "Взрываться", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 66,
+            "text": "Set set set",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Приходить", "isCorrect": false},
+                {"id": 2, "text": "Выбирать", "isCorrect": false},
+                {"id": 3, "text": "Устанавливать/ставить", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 67,
+            "text": "Sew sewed sewn",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Шить", "isCorrect": true},
+                {"id": 2, "text": "Кормить", "isCorrect": false},
+                {"id": 3, "text": "Копать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 68,
+            "text": "Shake shook shaken",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Чувствовать", "isCorrect": false},
+                {"id": 2, "text": "Трясти", "isCorrect": true},
+                {"id": 3, "text": "Сражаться", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 69,
+            "text": "Shine shone shone",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Кричать", "isCorrect": false},
+                {"id": 2, "text": "Получать", "isCorrect": false},
+                {"id": 3, "text": "Светить/сиять", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 70,
+            "text": "Shoot shot shot",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Стрелять", "isCorrect": true},
+                {"id": 2, "text": "Звонить", "isCorrect": false},
+                {"id": 3, "text": "Ударить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 71,
+            "text": "Show showed shown",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Слышать", "isCorrect": false},
+                {"id": 2, "text": "Показывать", "isCorrect": true},
+                {"id": 3, "text": "Прощать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 72,
+            "text": "Shut shut shut",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Причинять боль", "isCorrect": false},
+                {"id": 2, "text": "Ударить", "isCorrect": false},
+                {"id": 3, "text": "Закрывать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 73,
+            "text": "Sing sang sung",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Петь", "isCorrect": true},
+                {"id": 2, "text": "Прощать", "isCorrect": false},
+                {"id": 3, "text": "Пить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 74,
+            "text": "Sit sat sat",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Копать", "isCorrect": false},
+                {"id": 2, "text": "Сидеть", "isCorrect": true},
+                {"id": 3, "text": "Делать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 75,
+            "text": "Sleep slept slept",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Показывать", "isCorrect": false},
+                {"id": 2, "text": "Резать", "isCorrect": false},
+                {"id": 3, "text": "Спать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 76,
+            "text": "Smell smelt smelt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Пахнуть", "isCorrect": true},
+                {"id": 2, "text": "Спать", "isCorrect": false},
+                {"id": 3, "text": "Писать по буквам", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 77,
+            "text": "Speak spoke spoken",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Трясти", "isCorrect": false},
+                {"id": 2, "text": "Говорить", "isCorrect": true},
+                {"id": 3, "text": "Рассказывать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 78,
+            "text": "Spell spelt spelt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Знать", "isCorrect": false},
+                {"id": 2, "text": "Одалживать", "isCorrect": false},
+                {"id": 3, "text": "Писать по буквам", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 79,
+            "text": "Spend spent spent",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Тратить", "isCorrect": true},
+                {"id": 2, "text": "Иметь", "isCorrect": false},
+                {"id": 3, "text": "Покупать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 80,
+            "text": "Stand stood stood",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Сидеть", "isCorrect": false},
+                {"id": 2, "text": "Стоять", "isCorrect": true},
+                {"id": 3, "text": "Спать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 81,
+            "text": "Steal stole stolen",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Рисовать", "isCorrect": false},
+                {"id": 2, "text": "Пить", "isCorrect": false},
+                {"id": 3, "text": "Красть", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 82,
+            "text": "Stick stuck stuck",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Прилипать", "isCorrect": true},
+                {"id": 2, "text": "Приходить", "isCorrect": false},
+                {"id": 3, "text": "Жалить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 83,
+            "text": "Sting stung stung",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Стоить", "isCorrect": false},
+                {"id": 2, "text": "Жалить", "isCorrect": true},
+                {"id": 3, "text": "Дуть", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 84,
+            "text": "Swear swore sworn",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Гореть", "isCorrect": false},
+                {"id": 2, "text": "Пить", "isCorrect": false},
+                {"id": 3, "text": "Ругвться/сквернословить", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 85,
+            "text": "Sweep swept swept",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Подметать", "isCorrect": true},
+                {"id": 2, "text": "Гореть", "isCorrect": false},
+                {"id": 3, "text": "Сражаться", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 86,
+            "text": "Swim swam swum",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Находить", "isCorrect": false},
+                {"id": 2, "text": "Плавать", "isCorrect": true},
+                {"id": 3, "text": "Прощать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 87,
+            "text": "Take took taken",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Давать", "isCorrect": false},
+                {"id": 2, "text": "Получать", "isCorrect": false},
+                {"id": 3, "text": "Брать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 88,
+            "text": "Teach taught taught",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Учить", "isCorrect": true},
+                {"id": 2, "text": "Иметь", "isCorrect": false},
+                {"id": 3, "text": "Расти", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 89,
+            "text": "Tear tore torn",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Знать", "isCorrect": false},
+                {"id": 2, "text": "Рвать", "isCorrect": true},
+                {"id": 3, "text": "Одалживать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 90,
+            "text": "Tell told told",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Говорить", "isCorrect": false},
+                {"id": 2, "text": "Позволять", "isCorrect": false},
+                {"id": 3, "text": "Рассказывать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 91,
+            "text": "Think thought thought",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Думать", "isCorrect": true},
+                {"id": 2, "text": "Класть", "isCorrect": false},
+                {"id": 3, "text": "Платить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 92,
+            "text": "Throw threw thrown",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Подниматься", "isCorrect": false},
+                {"id": 2, "text": "Бросать", "isCorrect": true},
+                {"id": 3, "text": "Звонить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 93,
+            "text": "Understand understood understood",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Продавать", "isCorrect": false},
+                {"id": 2, "text": "Видеть", "isCorrect": false},
+                {"id": 3, "text": "Понимать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 94,
+            "text": "Wake woke woken",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Просыпаться", "isCorrect": true},
+                {"id": 2, "text": "Устанавливать/ставить", "isCorrect": false},
+                {"id": 3, "text": "Отправлять", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 95,
+            "text": "Wear wore worn",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Шить", "isCorrect": false},
+                {"id": 2, "text": "Носить (одежду)", "isCorrect": true},
+                {"id": 3, "text": "Пахнуть", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 96,
+            "text": "Win won won",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Красть", "isCorrect": false},
+                {"id": 2, "text": "Тратить", "isCorrect": false},
+                {"id": 3, "text": "Побеждать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 97,
+            "text": "Write wrote written",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Писать", "isCorrect": true},
+                {"id": 2, "text": "Жалить", "isCorrect": false},
+                {"id": 3, "text": "Плавать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 98,
+            "text": "Say said said",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Видеть", "isCorrect": false},
+                {"id": 2, "text": "Сказать", "isCorrect": true},
+                {"id": 3, "text": "Стоять", "isCorrect": false}
+            ]
+        }
+    ],
+    "second": [
+        {
+            "id": 1,
+            "text": "Быть",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Take took taken", "isCorrect": false},
+                {"id": 2, "text": "Be was/were been", "isCorrect": true},
+                {"id": 3, "text": "Bring brought brought", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Рождать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Do did done", "isCorrect": false},
+                {"id": 2, "text": "Choose chose chosen", "isCorrect": false},
+                {"id": 3, "text": "Bear bore born", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 3,
+            "text": "Бить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Beat beat beaten", "isCorrect": true},
+                {"id": 2, "text": "Build built built", "isCorrect": false},
+                {"id": 3, "text": "Buy bought bought", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 4,
+            "text": "Становиться",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Dream dreamt dreamt", "isCorrect": false},
+                {"id": 2, "text": "Become became become", "isCorrect": true},
+                {"id": 3, "text": "Lead led led", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 5,
+            "text": "Начинать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Cut cut cut", "isCorrect": false},
+                {"id": 2, "text": "Come came come", "isCorrect": false},
+                {"id": 3, "text": "Begin began begun", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 6,
+            "text": "Кусать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Bite bit bitten", "isCorrect": true},
+                {"id": 2, "text": "Catch caught caught", "isCorrect": false},
+                {"id": 3, "text": "Burst burst burst", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 7,
+            "text": "Дуть",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Take took taken", "isCorrect": false},
+                {"id": 2, "text": "Blow blew blown", "isCorrect": true},
+                {"id": 3, "text": "Forget forgot forgotten", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 8,
+            "text": "Строить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Bring brought brought", "isCorrect": false},
+                {"id": 2, "text": "Freeze froze frozen", "isCorrect": false},
+                {"id": 3, "text": "Build built built", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 9,
+            "text": "Приносить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Bring brought brought", "isCorrect": true},
+                {"id": 2, "text": "Dig dug dug", "isCorrect": false},
+                {"id": 3, "text": "Drive drove driven", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 10,
+            "text": "Гореть",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Get got got", "isCorrect": false},
+                {"id": 2, "text": "Burn burnt burnt", "isCorrect": true},
+                {"id": 3, "text": "Choose chose chosen", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 11,
+            "text": "Взрываться",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Eat ate eaten", "isCorrect": false},
+                {"id": 2, "text": "Find found found", "isCorrect": false},
+                {"id": 3, "text": "Burst burst burst", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 12,
+            "text": "Покупать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Buy bought bought", "isCorrect": true},
+                {"id": 2, "text": "Cut cut cut", "isCorrect": false},
+                {"id": 3, "text": "Fall fell fallen", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 13,
+            "text": "Ловить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Forgive forgave forgiven", "isCorrect": false},
+                {"id": 2, "text": "Catch caught caught", "isCorrect": true},
+                {"id": 3, "text": "Have had had", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 14,
+            "text": "Выбирать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Light lit lit", "isCorrect": false},
+                {"id": 2, "text": "Lend lent lent", "isCorrect": false},
+                {"id": 3, "text": "Choose chose chosen", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 15,
+            "text": "Приходить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Come came come", "isCorrect": true},
+                {"id": 2, "text": "Do did done", "isCorrect": false},
+                {"id": 3, "text": "Pay paid paid", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 16,
+            "text": "Стоить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Wake woke woken", "isCorrect": false},
+                {"id": 2, "text": "Cost cost cost", "isCorrect": true},
+                {"id": 3, "text": "Ride rode ridden", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 17,
+            "text": "Резать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Meet met met", "isCorrect": false},
+                {"id": 2, "text": "Shine shone shone", "isCorrect": false},
+                {"id": 3, "text": "Cut cut cut", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 18,
+            "text": "Иметь дело с",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Deal dealt dealt", "isCorrect": true},
+                {"id": 2, "text": "Spell spelt spelt", "isCorrect": false},
+                {"id": 3, "text": "Win won won", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 19,
+            "text": "Копать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Throw threw thrown", "isCorrect": false},
+                {"id": 2, "text": "Dig dug dug", "isCorrect": true},
+                {"id": 3, "text": "Swim swam swum", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 20,
+            "text": "Давать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Wake woke woken", "isCorrect": false},
+                {"id": 2, "text": "Stand stood stood", "isCorrect": false},
+                {"id": 3, "text": "Do did done", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 21,
+            "text": "Рисовать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Draw drew drawn", "isCorrect": true},
+                {"id": 2, "text": "Ride rode ridden", "isCorrect": false},
+                {"id": 3, "text": "Speak spoke spoken", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 22,
+            "text": "Мечтать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Say said said", "isCorrect": false},
+                {"id": 2, "text": "Dream dreamt dreamt", "isCorrect": true},
+                {"id": 3, "text": "Tear tore torn", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 23,
+            "text": "Пить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Have had had", "isCorrect": false},
+                {"id": 2, "text": "Know knew known", "isCorrect": false},
+                {"id": 3, "text": "Drink drank drunk", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 24,
+            "text": "Водить машину",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Drive drove driven", "isCorrect": true},
+                {"id": 2, "text": "Read read read", "isCorrect": false},
+                {"id": 3, "text": "Tell told told", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 25,
+            "text": "Кушать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Sweep swept swept", "isCorrect": false},
+                {"id": 2, "text": "Eat ate eaten", "isCorrect": true},
+                {"id": 3, "text": "Sell sold sold", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 26,
+            "text": "Падать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Shake shook shaken", "isCorrect": false},
+                {"id": 2, "text": "Ring rang rung", "isCorrect": false},
+                {"id": 3, "text": "Fall fell fallen", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 27,
+            "text": "Кормить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Feed fed fed", "isCorrect": true},
+                {"id": 2, "text": "Go went gone", "isCorrect": false},
+                {"id": 3, "text": "Build built built", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 28,
+            "text": "Чувствовать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Catch caught caught", "isCorrect": false},
+                {"id": 2, "text": "Feel felt felt", "isCorrect": true},
+                {"id": 3, "text": "Dig dug dug", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 29,
+            "text": "Сражаться",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Draw drew drawn", "isCorrect": false},
+                {"id": 2, "text": "Come came come", "isCorrect": false},
+                {"id": 3, "text": "Fight fought fought", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 30,
+            "text": "Находить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Find found found", "isCorrect": true},
+                {"id": 2, "text": "Hit hit hit", "isCorrect": false},
+                {"id": 3, "text": "Hurt hurt hurt", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 31,
+            "text": "Летать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Deal dealt dealt", "isCorrect": false},
+                {"id": 2, "text": "Fly flew flown", "isCorrect": true},
+                {"id": 3, "text": "Dream dreamt dreamt", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 32,
+            "text": "Забывать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Burn burnt burnt", "isCorrect": false},
+                {"id": 2, "text": "Cost cost cost", "isCorrect": false},
+                {"id": 3, "text": "Forget forgot forgotten", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 33,
+            "text": "Прощать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Forgive forgave forgiven", "isCorrect": true},
+                {"id": 2, "text": "Grow grew grown", "isCorrect": false},
+                {"id": 3, "text": "Freeze froze frozen", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 34,
+            "text": "Замерзать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Feel felt felt", "isCorrect": false},
+                {"id": 2, "text": "Freeze froze frozen", "isCorrect": true},
+                {"id": 3, "text": "Bring brought brought", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 35,
+            "text": "Получать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Draw drew drawn", "isCorrect": false},
+                {"id": 2, "text": "Eat ate eaten", "isCorrect": false},
+                {"id": 3, "text": "Get got got", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 36,
+            "text": "Давать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Give gave given", "isCorrect": true},
+                {"id": 2, "text": "Go went gone", "isCorrect": false},
+                {"id": 3, "text": "Ride rode ridden", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 37,
+            "text": "Идти",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Tear tore torn", "isCorrect": false},
+                {"id": 2, "text": "Go went gone", "isCorrect": true},
+                {"id": 3, "text": "Leave left left", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 38,
+            "text": "Расти",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Lead led led", "isCorrect": false},
+                {"id": 2, "text": "Say said said", "isCorrect": false},
+                {"id": 3, "text": "Grow grew grown", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 39,
+            "text": "Иметь",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Have had had", "isCorrect": true},
+                {"id": 2, "text": "Know knew known", "isCorrect": false},
+                {"id": 3, "text": "Lose lost lost", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 40,
+            "text": "Слышать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Find found found", "isCorrect": false},
+                {"id": 2, "text": "Hear heard heard", "isCorrect": true},
+                {"id": 3, "text": "Cost cost cost", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 41,
+            "text": "Прятать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Sting stung stung", "isCorrect": false},
+                {"id": 2, "text": "Run ran run", "isCorrect": false},
+                {"id": 3, "text": "Hide hid hidden", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 42,
+            "text": "Ударить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Hit hit hit", "isCorrect": true},
+                {"id": 2, "text": "Lend lent lent", "isCorrect": false},
+                {"id": 3, "text": "Get got got", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 43,
+            "text": "Держать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Know knew known", "isCorrect": false},
+                {"id": 2, "text": "Hold held held", "isCorrect": true},
+                {"id": 3, "text": "Catch caught caught", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 44,
+            "text": "Причинять боль",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Feed fed fed", "isCorrect": false},
+                {"id": 2, "text": "Sew sewed sewn", "isCorrect": false},
+                {"id": 3, "text": "Hurt hurt hurt", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 45,
+            "text": "Хранить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Keep kept kept", "isCorrect": true},
+                {"id": 2, "text": "Ring rang rung", "isCorrect": false},
+                {"id": 3, "text": "Stand stood stood", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 46,
+            "text": "Знать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Meet met met", "isCorrect": false},
+                {"id": 2, "text": "Know knew known", "isCorrect": true},
+                {"id": 3, "text": "Give gave given", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 47,
+            "text": "Вести",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Burst burst burst", "isCorrect": false},
+                {"id": 2, "text": "Eat ate eaten", "isCorrect": false},
+                {"id": 3, "text": "Lead led led", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 48,
+            "text": "Одалживать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Lend lent lent", "isCorrect": true},
+                {"id": 2, "text": "Hold held held", "isCorrect": false},
+                {"id": 3, "text": "Light lit lit", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 49,
+            "text": "Уезжать/покидать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Know knew known", "isCorrect": false},
+                {"id": 2, "text": "Leave left left", "isCorrect": true},
+                {"id": 3, "text": "Shine shone shone", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 50,
+            "text": "Позволять",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Ring rang rung", "isCorrect": false},
+                {"id": 2, "text": "Shake shook shaken", "isCorrect": false},
+                {"id": 3, "text": "Let let let", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 51,
+            "text": "Освещать/зажигать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Light lit lit", "isCorrect": true},
+                {"id": 2, "text": "Ride rode ridden", "isCorrect": false},
+                {"id": 3, "text": "Sew sewed sewn", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 52,
+            "text": "Терять",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Hurt hurt hurt", "isCorrect": false},
+                {"id": 2, "text": "Lose lost lost", "isCorrect": true},
+                {"id": 3, "text": "Lend lent lent", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 53,
+            "text": "Делать/мастерить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Do did done", "isCorrect": false},
+                {"id": 2, "text": "Forgive forgave forgiven", "isCorrect": false},
+                {"id": 3, "text": "Make made made", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 54,
+            "text": "Встречать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Meet met met", "isCorrect": true},
+                {"id": 2, "text": "Run ran run", "isCorrect": false},
+                {"id": 3, "text": "Wake woke woken", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 55,
+            "text": "Платить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Rise rose risen", "isCorrect": false},
+                {"id": 2, "text": "Pay paid paid", "isCorrect": true},
+                {"id": 3, "text": "Hold held held", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 56,
+            "text": "Класть",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Understand understood understood", "isCorrect": false},
+                {"id": 2, "text": "Light lit lit", "isCorrect": false},
+                {"id": 3, "text": "Put put put", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 57,
+            "text": "Читать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Read read read", "isCorrect": true},
+                {"id": 2, "text": "Run ran run", "isCorrect": false},
+                {"id": 3, "text": "Shine shone shone", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 58,
+            "text": "Ездить верхом",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Shoot shot shot", "isCorrect": false},
+                {"id": 2, "text": "Ride rode ridden", "isCorrect": true},
+                {"id": 3, "text": "Rise rose risen", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 59,
+            "text": "Звонить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Show showed shown", "isCorrect": false},
+                {"id": 2, "text": "Take took taken", "isCorrect": false},
+                {"id": 3, "text": "Ring rang rung", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 60,
+            "text": "Подниматься",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Rise rose risen", "isCorrect": true},
+                {"id": 2, "text": "Keep kept kept", "isCorrect": false},
+                {"id": 3, "text": "Fall fell fallen", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 61,
+            "text": "Бегать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Let let let", "isCorrect": false},
+                {"id": 2, "text": "Run ran run", "isCorrect": true},
+                {"id": 3, "text": "Sell sold sold", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 62,
+            "text": "Сказать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Wear wore worn", "isCorrect": false},
+                {"id": 2, "text": "Make made made", "isCorrect": false},
+                {"id": 3, "text": "Say said said", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 63,
+            "text": "Видеть",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "See saw seen", "isCorrect": true},
+                {"id": 2, "text": "Set set set", "isCorrect": false},
+                {"id": 3, "text": "Lose lost lost", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 64,
+            "text": "Продавать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Sing sang sung", "isCorrect": false},
+                {"id": 2, "text": "Sell sold sold", "isCorrect": true},
+                {"id": 3, "text": "Know knew known", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 65,
+            "text": "Отправлять",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Hold held held", "isCorrect": false},
+                {"id": 2, "text": "Give gave given", "isCorrect": false},
+                {"id": 3, "text": "Send sent sent", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 66,
+            "text": "Устанавливать/ставить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Set set set", "isCorrect": true},
+                {"id": 2, "text": "Lend lent lent", "isCorrect": false},
+                {"id": 3, "text": "Write wrote written", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 67,
+            "text": "Шить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Choose chose chosen", "isCorrect": false},
+                {"id": 2, "text": "Sew sewed sewn", "isCorrect": true},
+                {"id": 3, "text": "Burst burst burst", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 68,
+            "text": "Трясти",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Leave left left", "isCorrect": false},
+                {"id": 2, "text": "Forgive forgave forgiven", "isCorrect": false},
+                {"id": 3, "text": "Shake shook shaken", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 69,
+            "text": "Светить/сиять",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Shine shone shone", "isCorrect": true},
+                {"id": 2, "text": "Take took taken", "isCorrect": false},
+                {"id": 3, "text": "Wake woke woken", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 70,
+            "text": "Стрелять",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Steal stole stolen", "isCorrect": false},
+                {"id": 2, "text": "Shoot shot shot", "isCorrect": true},
+                {"id": 3, "text": "Rise rose risen", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 71,
+            "text": "Показывать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Think thought thought", "isCorrect": false},
+                {"id": 2, "text": "Let let let", "isCorrect": false},
+                {"id": 3, "text": "Show showed shown", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 72,
+            "text": "Закрывать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Shut shut shut", "isCorrect": true},
+                {"id": 2, "text": "Swim swam swum", "isCorrect": false},
+                {"id": 3, "text": "Ride rode ridden", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 73,
+            "text": "Петь",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Take took taken", "isCorrect": false},
+                {"id": 2, "text": "Sing sang sung", "isCorrect": true},
+                {"id": 3, "text": "Tell told told", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 74,
+            "text": "Сидеть",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Take took taken", "isCorrect": false},
+                {"id": 2, "text": "Steal stole stolen", "isCorrect": false},
+                {"id": 3, "text": "Sit sat sat", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 75,
+            "text": "Спать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Sleep slept slept", "isCorrect": true},
+                {"id": 2, "text": "Hold held held", "isCorrect": false},
+                {"id": 3, "text": "Teach taught taught", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 76,
+            "text": "Пахнуть",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Show showed shown", "isCorrect": false},
+                {"id": 2, "text": "Smell smelt smelt", "isCorrect": true},
+                {"id": 3, "text": "Read read read", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 77,
+            "text": "Говорить/разговаривать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Lose lost lost", "isCorrect": false},
+                {"id": 2, "text": "Meet met met", "isCorrect": false},
+                {"id": 3, "text": "Speak spoke spoken", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 78,
+            "text": "Писать по буквам",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Spell spelt spelt", "isCorrect": true},
+                {"id": 2, "text": "Shake shook shaken", "isCorrect": false},
+                {"id": 3, "text": "Leave left left", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 79,
+            "text": "Тратить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Lend lent lent", "isCorrect": false},
+                {"id": 2, "text": "Spend spent spent", "isCorrect": true},
+                {"id": 3, "text": "Hide hid hidden", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 80,
+            "text": "Стоять",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Hold held held", "isCorrect": false},
+                {"id": 2, "text": "Draw drew drawn", "isCorrect": false},
+                {"id": 3, "text": "Stand stood stood", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 81,
+            "text": "Красть",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Steal stole stolen", "isCorrect": true},
+                {"id": 2, "text": "Sweep swept swept", "isCorrect": false},
+                {"id": 3, "text": "Win won won", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 82,
+            "text": "Прилипать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Lose lost lost", "isCorrect": false},
+                {"id": 2, "text": "Stick stuck stuck", "isCorrect": true},
+                {"id": 3, "text": "Eat ate eaten", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 83,
+            "text": "Жалить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Wake woke woken", "isCorrect": false},
+                {"id": 2, "text": "Tear tore torn", "isCorrect": false},
+                {"id": 3, "text": "Sting stung stung", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 84,
+            "text": "Ругвться/сквернословить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Swear swore sworn", "isCorrect": true},
+                {"id": 2, "text": "Forgive forgave forgiven", "isCorrect": false},
+                {"id": 3, "text": "Have had had", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 85,
+            "text": "Подметать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Begin began begun", "isCorrect": false},
+                {"id": 2, "text": "Sweep swept swept", "isCorrect": true},
+                {"id": 3, "text": "Bear bore born", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 86,
+            "text": "Плавать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Draw drew drawn", "isCorrect": false},
+                {"id": 2, "text": "Cost cost cost", "isCorrect": false},
+                {"id": 3, "text": "Swim swam swum", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 87,
+            "text": "Брать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Take took taken", "isCorrect": true},
+                {"id": 2, "text": "Keep kept kept", "isCorrect": false},
+                {"id": 3, "text": "Become became become", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 88,
+            "text": "Учить",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Blow blew blown", "isCorrect": false},
+                {"id": 2, "text": "Teach taught taught", "isCorrect": true},
+                {"id": 3, "text": "Come came come", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 89,
+            "text": "Рвать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Begin began begun", "isCorrect": false},
+                {"id": 2, "text": "Stand stood stood", "isCorrect": false},
+                {"id": 3, "text": "Tear tore torn", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 90,
+            "text": "Рассказывать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Tell told told", "isCorrect": true},
+                {"id": 2, "text": "Drive drove driven", "isCorrect": false},
+                {"id": 3, "text": "Burst burst burst", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 91,
+            "text": "Думать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Shine shone shone", "isCorrect": false},
+                {"id": 2, "text": "Think thought thought", "isCorrect": true},
+                {"id": 3, "text": "Ring rang rung", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 92,
+            "text": "Бросать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Hide hid hidden", "isCorrect": false},
+                {"id": 2, "text": "Get got got", "isCorrect": false},
+                {"id": 3, "text": "Throw threw thrown", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 93,
+            "text": "Понимать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Understand understood understood", "isCorrect": true},
+                {"id": 2, "text": "Wake woke woken", "isCorrect": false},
+                {"id": 3, "text": "Send sent sent", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 94,
+            "text": "Просыпаться",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Shoot shot shot", "isCorrect": false},
+                {"id": 2, "text": "Wake woke woken", "isCorrect": true},
+                {"id": 3, "text": "Blow blew blown", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 95,
+            "text": "Носить (одежду)",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Sleep slept slept", "isCorrect": false},
+                {"id": 2, "text": "Ride rode ridden", "isCorrect": false},
+                {"id": 3, "text": "Wear wore worn", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 96,
+            "text": "Побеждать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Win won won", "isCorrect": true},
+                {"id": 2, "text": "Read read read", "isCorrect": false},
+                {"id": 3, "text": "Bite bit bitten", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 97,
+            "text": "Писать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Smell smelt smelt", "isCorrect": false},
+                {"id": 2, "text": "Write wrote written", "isCorrect": true},
+                {"id": 3, "text": "Become became become", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 98,
+            "text": "Ломать",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Hang hung hung", "isCorrect": false},
+                {"id": 2, "text": "Bend bent bent", "isCorrect": false},
+                {"id": 3, "text": "Break broke broken", "isCorrect": true}
+            ]
+        }
+    ],
+    "third": [
+        {
+            "id": 1,
+            "text": "Arise arose arisen",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Возникать", "isCorrect": true},
+                {"id": 2, "text": "Плести", "isCorrect": false},
+                {"id": 3, "text": "Портить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Awake awoke awoken",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Распространять", "isCorrect": false},
+                {"id": 2, "text": "Проснуться", "isCorrect": true},
+                {"id": 3, "text": "Проливать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 3,
+            "text": "Bend bent bent",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Класть", "isCorrect": false},
+                {"id": 2, "text": "Выходить", "isCorrect": false},
+                {"id": 3, "text": "Гнуть", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 4,
+            "text": "Bet bet bet",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Делать ставки", "isCorrect": true},
+                {"id": 2, "text": "Возникать", "isCorrect": false},
+                {"id": 3, "text": "Портить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 5,
+            "text": "Bleed bled bled",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Убегать", "isCorrect": false},
+                {"id": 2, "text": "Кровоточить", "isCorrect": true},
+                {"id": 3, "text": "Пробираться", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 6,
+            "text": "Fit fit fit",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Искать", "isCorrect": false},
+                {"id": 2, "text": "Делать ставки", "isCorrect": false},
+                {"id": 3, "text": "Подходить", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 7,
+            "text": "Flee fled fled",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Убегать", "isCorrect": true},
+                {"id": 2, "text": "Возникать", "isCorrect": false},
+                {"id": 3, "text": "Проснуться", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 8,
+            "text": "Hang hung hung",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Сокращаться", "isCorrect": false},
+                {"id": 2, "text": "Вешать", "isCorrect": true},
+                {"id": 3, "text": "Гнуть", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 9,
+            "text": "Lay laid laid",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Скользить", "isCorrect": false},
+                {"id": 2, "text": "Ошибаться", "isCorrect": false},
+                {"id": 3, "text": "Класть", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 10,
+            "text": "Learn learnt learnt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Учить", "isCorrect": true},
+                {"id": 2, "text": "Подходить", "isCorrect": false},
+                {"id": 3, "text": "Доказывать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 11,
+            "text": "Mean meant meant",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Поражать/бить", "isCorrect": false},
+                {"id": 2, "text": "Означать", "isCorrect": true},
+                {"id": 3, "text": "Убегать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 12,
+            "text": "Mistake mistook mistaken",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Учить", "isCorrect": false},
+                {"id": 2, "text": "Разделять", "isCorrect": false},
+                {"id": 3, "text": "Ошибаться", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 13,
+            "text": "Prove proved proven",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Доказывать", "isCorrect": true},
+                {"id": 2, "text": "Плевать", "isCorrect": false},
+                {"id": 3, "text": "Проливать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 14,
+            "text": "Quit quit quit",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Убегать", "isCorrect": false},
+                {"id": 2, "text": "Выходить", "isCorrect": true},
+                {"id": 3, "text": "Проснуться", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 15,
+            "text": "Seek sought sought",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Скользить", "isCorrect": false},
+                {"id": 2, "text": "Подходить", "isCorrect": false},
+                {"id": 3, "text": "Искать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 16,
+            "text": "Shrink shrank shrunk",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Сокращаться", "isCorrect": true},
+                {"id": 2, "text": "Выходить", "isCorrect": false},
+                {"id": 3, "text": "Разделять", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 17,
+            "text": "Slide slid slid",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Искать", "isCorrect": false},
+                {"id": 2, "text": "Скользить", "isCorrect": true},
+                {"id": 3, "text": "Убегать", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 18,
+            "text": "Sneak snuck snuck",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Учить", "isCorrect": false},
+                {"id": 2, "text": "Ошибаться", "isCorrect": false},
+                {"id": 3, "text": "Пробираться", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 19,
+            "text": "Spill spilt spilt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Проливать", "isCorrect": true},
+                {"id": 2, "text": "Класть", "isCorrect": false},
+                {"id": 3, "text": "Подходить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 20,
+            "text": "Spin spun spun",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Проснуться", "isCorrect": false},
+                {"id": 2, "text": "Плести", "isCorrect": true},
+                {"id": 3, "text": "Портить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 21,
+            "text": "Spit spat spat",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Означать", "isCorrect": false},
+                {"id": 2, "text": "Искать", "isCorrect": false},
+                {"id": 3, "text": "Плевать", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 22,
+            "text": "Split split split",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Разделять", "isCorrect": true},
+                {"id": 2, "text": "Проснуться", "isCorrect": false},
+                {"id": 3, "text": "Распространять", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 23,
+            "text": "Spoil spoilt spoilt",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Искать", "isCorrect": false},
+                {"id": 2, "text": "Портить", "isCorrect": true},
+                {"id": 3, "text": "Подходить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 24,
+            "text": "Spread spread spread",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Вешать", "isCorrect": false},
+                {"id": 2, "text": "Возникать", "isCorrect": false},
+                {"id": 3, "text": "Распространять", "isCorrect": true}
+            ]
+        },
+        {
+            "id": 25,
+            "text": "Strike struck struck",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Поражать/бить", "isCorrect": true},
+                {"id": 2, "text": "Проснуться", "isCorrect": false},
+                {"id": 3, "text": "Портить", "isCorrect": false}
+            ]
+        },
+        {
+            "id": 26,
+            "text": "Swing swung swung",
+            "hasOptions": true,
+            "options": [
+                {"id": 1, "text": "Гнуть", "isCorrect": false},
+                {"id": 2, "text": "Качать/раскачивать", "isCorrect": true},
+                {"id": 3, "text": "Делать ставки", "isCorrect": false}
+            ]
+        }
+    ] 
+}
